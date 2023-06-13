@@ -1,0 +1,10 @@
+* shellpool
+
+Running external programs from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jaredcdavis/shellpool.git   |
+| commit  | 2057516  |
+| systems | shellpool |
+|---------+-------------------------------------------|
+
